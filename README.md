@@ -29,4 +29,4 @@ The `checkWeather` function uses the `fetch` API to make an asynchronous request
 ## Snapshots
 
 <!-- Add snapshots or screenshots of the app here -->
-- [Snapshot 1]('/images/web.png')
+![Snapshot](https://github.com/aryanjais1234/weath-page/blob/main/images/web.png)
